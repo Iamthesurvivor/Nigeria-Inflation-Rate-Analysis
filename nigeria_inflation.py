@@ -132,7 +132,6 @@ plt.text(0.5, 0.75, 'My name is Glory Iloduba \nAnd this is my Capstone Project'
          alpha=0.4,
          ha='center', va='top',
          transform=plt.gcf().transFigure)
-
 # plt.show()
 
 
@@ -245,7 +244,6 @@ ax2.set_ylabel('Inflation Rate (%)', color='tab:red')
 ax2.tick_params(axis='y', colors='tab:red')
 
 plt.title('Oil Prices and Inflation Rates(2008–2020) in Nigeria\nRed = Decrease, Green = Increase', color='white')
-
 # plt.show()
 
 # #5. MOST INCREASED CPI OVERTIME

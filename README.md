@@ -29,6 +29,7 @@ Answer: During key global oil price drops (2009, 2015, 2016, 2020), Nigeria's in
 Answer: The most increased CPI Category is CPI_Food, with a total of 867.924 increase overtime.
 
 🛠️ How to Run
+
 Option 1: Run from the command line (terminal)
 1. Open your terminal or command prompt.  
 2. Navigate to your project folder using the cd command.  

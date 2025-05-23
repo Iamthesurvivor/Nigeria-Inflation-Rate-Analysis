@@ -11,7 +11,7 @@ This Python project analyzes Nigeria's inflation rates from 2008 to 2024 using p
 - 🧾 Summary of findings and insights
 
 
-## Project Questions & Answers
+##❓ Project Questions & Answers
 
 *1. What was the average inflation rate in Nigeria from 2008 to 2024?*  
 Answer: The average inflation rate from 2008-2024 is: 14.07
@@ -28,7 +28,7 @@ Answer: During key global oil price drops (2009, 2015, 2016, 2020), Nigeria's in
 *5. Which CPI category increased the most over time?*  
 Answer: The most increased CPI Category is CPI_Food, with a total of 867.924 increase overtime.
 
-## How to Run
+##🛠️ How to Run
 Option 1: Run from the command line (terminal)
 1. Open your terminal or command prompt.  
 2. Navigate to your project folder using the cd command.  
@@ -37,17 +37,17 @@ Option 1: Run from the command line (terminal)
 Option 2: Run inside PyCharm
 1. Open the project in PyCharm.  
 2. In the Project Explorer, right-click "main.py"
-3. Select *Run  
-4. The output will appear in the Run window at the bottom.
-
-## Requirements
+3. Select Run 'main' from the context menu.
+4. View the output in the Run window at the bottom of PyCharm.
+   
+## 📦Requirements
 - pandas
 - matplotlib
 - numpy
 - calender
 - seaborn
 
-## Author
+## 👤Author
 Glory Iloduba
 
 ## Contact

@@ -1,14 +1,15 @@
 # Nigeria Inflation Rates Analysis
 
-## Project Overview
+## 📊 Project Overview
 This Python project analyzes Nigeria's inflation rates from 2008 to 2024 using publicly available data. It includes data cleaning, visualization and trend analysis to help understand inflation patterns in Nigeria.
 
-## Features
-- Data collection and cleaning
-- Statistical analysis of inflation rates
-- Graphs and visualizations to illustrate trends
-- Answers to key inflation-related questions
-- Summary of findings
+##🔍 Features
+- 📥 Data collection and preprocessing
+- 📈 Statistical analysis of inflation trends
+- 📊 Visualizations for inflation patterns by year and month
+- ❓ Answers to critical inflation-related questions
+- 🧾 Summary of findings and insights
+
 
 ## Project Questions & Answers
 
@@ -54,4 +55,4 @@ Email: GloryIloduba50@gmail.com
 
 ---
 
-Feel free to contribute or ask questions"# Nigeria-Inflation-Rate-Analysis" 
+Feel free to contribute or ask questions.
